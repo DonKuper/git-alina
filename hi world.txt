@@ -3,3 +3,7 @@
 end;
 
 hi everybody;
+
+print('hello my dear friend');
+
+туц туц туц Glad to see you
