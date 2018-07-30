@@ -1,8 +1,8 @@
-<script> alert('hello world') </script>
+<script> alert('hello world;') </script>
 
-end
+end;
 
-hi everybody
+hi everybody;
 
 print('hello my dear friend');
 
