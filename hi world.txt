@@ -1,5 +1,5 @@
-<script> alert('hello world') </script>
+<script> alert('hello world;') </script>
 
-end
+end;
 
-hi everybody
+hi everybody;
